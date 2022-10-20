@@ -30,3 +30,9 @@ Program reads the data from `waypoints.json` and categorizes it as per requireme
 - Javascript
 - Node.js
 - Jest
+
+**Instructions to run the app**
+
+- Navigate to the root directory
+- Run `node index` on terminal
+- To run the tests, run `npm test` on terminal from root dir
